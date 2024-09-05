@@ -1,0 +1,10 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Humphreys World
+theme: ["PaperMod"]
+paginate: 5
+
+params:
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
